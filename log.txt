@@ -1,185 +1,64 @@
+spotify-this-song
 **********SONG INFO*********
 0
-song name: Sign of the Times
-preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=196ca8133f254775a31c65ee5e0a7f02
-album: Harry Styles
-artist(s): Harry Styles
-*****************************
-**********SONG INFO*********
-1
-song name: Scared of the Dark (feat. XXXTENTACION)
-preview song: null
-album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
-artist(s): Lil Wayne
-*****************************
-**********SONG INFO*********
-2
-song name: Impatient
-preview song: null
-album: Late Nights: The Album
-artist(s): Jeremih
-*****************************
-**********SONG INFO*********
-3
-song name: Girl's Best Friend (feat. Ty Dolla $ign)
-preview song: null
-album: Rap Or Go To The League
-artist(s): 2 Chainz
-*****************************
-**********SONG INFO*********
-4
-song name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
-preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=196ca8133f254775a31c65ee5e0a7f02
-album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
-artist(s): Ty Dolla $ign
-*****************************
-**********SONG INFO*********
-5
-song name: Girl's Best Friend (feat. Ty Dolla $ign)
-preview song: null
-album: Rap Or Go To The League
-artist(s): 2 Chainz
-*****************************
-**********SONG INFO*********
-6
-song name: Girl's Best Friend (feat. Ty Dolla $ign)
-preview song: null
-album: Rap Or Go To The League
-artist(s): 2 Chainz
-*****************************
-**********SONG INFO*********
-7
-song name: The Light
-preview song: null
-album: The Light
-artist(s): Jeremih
-*****************************
-**********SONG INFO*********
-8
-song name: Movin’ Up
-preview song: null
-album: Quality Control: Control The Streets Volume 1
-artist(s): Quality Control
-*****************************
-**********SONG INFO*********
-9
-song name: Sign of the Times
-preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=196ca8133f254775a31c65ee5e0a7f02
-album: Sign of the Times
-artist(s): Harry Styles
-*****************************
-**********SONG INFO*********
-10
-song name: Cinderella (feat. Ty Dolla $ign)
-preview song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=196ca8133f254775a31c65ee5e0a7f02
-album: The Divine Feminine
-artist(s): Mac Miller
-*****************************
-**********SONG INFO*********
-11
-song name: The Sign
-preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=196ca8133f254775a31c65ee5e0a7f02
-album: The Sign (US Album) [Remastered]
-artist(s): Ace of Base
-*****************************
-**********SONG INFO*********
-12
-song name: Love U Better (feat. Lil Wayne & The-Dream)
-preview song: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=196ca8133f254775a31c65ee5e0a7f02
-album: Beach House 3
-artist(s): Ty Dolla $ign
-*****************************
-**********SONG INFO*********
-13
-song name: Droptop in the Rain (feat. Tory Lanez)
-preview song: https://p.scdn.co/mp3-preview/ffa127c9856a0c60b5fcddf57ead126dfba2d390?cid=196ca8133f254775a31c65ee5e0a7f02
-album: Beach House 3
-artist(s): Ty Dolla $ign
-*****************************
-**********SONG INFO*********
-14
-song name: 100 Grand (feat. Ty Dolla $ign & A Boogie wit da Hoodie)
-preview song: null
-album: Signed To The Streets 3
-artist(s): Lil Durk
-*****************************
-**********SONG INFO*********
-15
-song name: Warning Sign
-preview song: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=196ca8133f254775a31c65ee5e0a7f02
-album: A Rush Of Blood To The Head
-artist(s): Coldplay
-*****************************
-**********SONG INFO*********
-16
-song name: All That She Wants
-preview song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=196ca8133f254775a31c65ee5e0a7f02
-album: The Sign (US Album) [Remastered]
-artist(s): Ace of Base
-*****************************
-**********SONG INFO*********
-17
-song name: The Other Side (with MAX & Ty Dolla $ign)
-preview song: https://p.scdn.co/mp3-preview/a3c926a4a3a8876a61b09cd54ea343e876092321?cid=196ca8133f254775a31c65ee5e0a7f02
-album: The Greatest Showman: Reimagined
-artist(s): MAX
-*****************************
-**********SONG INFO*********
-18
-song name: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
-preview song: https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=196ca8133f254775a31c65ee5e0a7f02
-album: Suicide Squad: The Album
-artist(s): Lil Wayne
-*****************************
-**********SONG INFO*********
-19
-song name: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
-preview song: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=196ca8133f254775a31c65ee5e0a7f02
-album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
-artist(s): Juicy J
-*****************************
-**********SONG INFO*********
-0
-song name: Sign of the Times
-preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=196ca8133f254775a31c65ee5e0a7f02
-album: Harry Styles
-artist(s): Harry Styles
-*****************************
-**********SONG INFO*********
-0
-song name: Sign of the Times
-preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=196ca8133f254775a31c65ee5e0a7f02
-album: Harry Styles
-artist(s): Harry Styles
-*****************************
-**********SONG INFO*********
-0
-song name: Shallow
-preview song: null
-album: A Star Is Born Soundtrack
-artist(s): Lady Gaga
-*****************************
-**********SONGspotify-this-songINFO*********
-**********SONG INFO*********
-0
-song name: Shallow
-preview song: null
-album: A Star Is Born Soundtrack
-artist(s): Lady Gaga
-*****************************
-**********spotify-this-song*********
-**********SONG INFO*********
-0
-song name: Shallow
-preview song: null
-album: A Star Is Born Soundtrack
-artist(s): Lady Gaga
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=196ca8133f254775a31c65ee5e0a7f02
+album: 25
+artist(s): Adele
 *****************************
 spotify-this-song
 **********SONG INFO*********
 0
-song name: Let Me Down Slowly
-preview song: https://p.scdn.co/mp3-preview/a784e71dbc6c31f02d4ab06d36b472ecbddbaaf9?cid=196ca8133f254775a31c65ee5e0a7f02
-album: Narrated For You
-artist(s): Alec Benjamin
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=196ca8133f254775a31c65ee5e0a7f02
+album: 25
+artist(s): Adele
+*****************************
+spotify-this-song
+**********SONG INFO*********
+0
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=196ca8133f254775a31c65ee5e0a7f02
+album: 25
+artist(s): Adele
+*****************************
+spotify-this-song
+**********SONG INFO*********
+0
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=196ca8133f254775a31c65ee5e0a7f02
+album: 25
+artist(s): Adele
+*****************************
+spotify-this-song
+**********SONG INFO*********
+0
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=196ca8133f254775a31c65ee5e0a7f02
+album: 25
+artist(s): Adele
+*****************************
+spotify-this-song
+**********SONG INFO*********
+2019-3-11 15:41:0
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=196ca8133f254775a31c65ee5e0a7f02
+album: 25
+artist(s): Adele
+*****************************
+spotify-this-song
+**********SONG INFO*********
+2019-3-11 15:41:37 
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=196ca8133f254775a31c65ee5e0a7f02
+album: 25
+artist(s): Adele
+*****************************
+spotify-this-song
+2019-3-11 15:42:16 
+**********SONG INFO*********
+song name: YEAH RIGHT
+preview song: https://p.scdn.co/mp3-preview/c93897405a1809244b633a5599ac341bf0e8f3c3?cid=196ca8133f254775a31c65ee5e0a7f02
+album: BALLADS 1
+artist(s): Joji
 *****************************

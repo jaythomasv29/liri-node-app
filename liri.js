@@ -34,8 +34,7 @@ function spotifyThis(userQuery) {
     if (userQuery === undefined) {
         userQuery = "The Sign"; //default Song
     }
-    spotify.search(
-        {
+    spotify.search({
             type: "track",
             query: userQuery,
             limit: 1 //limit to 1
@@ -45,25 +44,28 @@ function spotifyThis(userQuery) {
                 console.log("Error occurred: " + err);
                 return;
             }
-            var songs = data.tracks.items;//access within the object
-
+            var songs = data.tracks.items; //access within the object
+            var today = new Date();
+            var date = today.getFullYear() + '-' + (today.getMonth() + 1) + '-' + today.getDate();
+            var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
+            var dateTime = date + ' ' + time;
             for (var i = 0; i < songs.length; i++) {
                 fs.appendFileSync("log.txt", `${userCmd}\n`);
+                console.log(dateTime);
+                fs.appendFileSync("log.txt", `${dateTime} \n`);
                 console.log(`**********SONG INFO*********`);
                 fs.appendFileSync("log.txt", "**********SONG INFO*********\n");
-                console.log(i);
-                fs.appendFileSync("log.txt", i +"\n");
                 console.log(`Song name:  ${songs[i].name}`);
-                fs.appendFileSync("log.txt", "song name: " + songs[i].name +"\n");
+                fs.appendFileSync("log.txt", "song name: " + songs[i].name + "\n");
                 console.log("Preview song: " + songs[i].preview_url);
-                fs.appendFileSync("log.txt", "preview song: " + songs[i].preview_url +"\n");
+                fs.appendFileSync("log.txt", "preview song: " + songs[i].preview_url + "\n");
                 console.log(`Album:  + ${songs[i].album.name}`);
                 fs.appendFileSync("log.txt", "album: " + songs[i].album.name + "\n");
                 console.log(`Artist(s):  ${songs[i].artists[0].name}`);
                 fs.appendFileSync("log.txt", "artist(s): " + songs[i].artists[0].name + "\n");
-                console.log(`*****************************`);  
+                console.log(`*****************************`);
                 fs.appendFileSync("log.txt", "*****************************\n");
-             }
+            }
         }
     );
 };
