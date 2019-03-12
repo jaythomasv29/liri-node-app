@@ -36,12 +36,23 @@ function concertThis(userQuery) {
         console.log('body:', JSON.parse(data)); // Print the HTML for the Google homepage.
         var eventInfo = JSON.parse(data);
         console.log(`*****HERE ARE 5 EVENTS TO BE PERFORMED BY ${userQuery}*****`)
+        fs.appendFileSync('log.txt', `**********${userCmd}**********\n`)
         for (var i=0; i<6; i++){
             console.log(i + eventInfo[i].description);
             console.log(eventInfo[i].datetime);
             console.log(eventInfo[i].venue.name);
             console.log(eventInfo[i].venue.country);
             console.log(eventInfo[i].venue.city)
+            //write to file
+            fs.appendFileSync("log.txt",
+            `*****HERE ARE 5 EVENTS TO BE PERFORMED BY ${userQuery}*****
+            ${i} ${eventInfo[i].description}\n
+            ${eventInfo[i].datetime}\n
+            ${eventInfo[i].venue.name}\n
+            ${eventInfo[i].venue.country}\n
+            ${eventInfo[i].venue.city}\n
+            ************************
+            `);
         }
       });
 }
